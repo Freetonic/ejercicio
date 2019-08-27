@@ -43,9 +43,10 @@ ul {
 	margin-bottom: 5px;
 	color: #6A0888;
 	text-decoration:none;
-	text-align: center;
+	text-align: right;
 	line-height: 50px;
 	font-weight: bold;
+	padding-right: 10px;
 }
 #horiz:hover {
 	background-color: #F7BE81;
